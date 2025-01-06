@@ -1,0 +1,9 @@
+
+[Objective:] Study the correlation between LST and NDVI overall and in various 
+
+              land cover types over time in the metropolitan city of Atlanta 
+              in Fulton County. 
+
+Link to Project in Google Earth Engine app: 
+https://chechiamahbruin.projects.earthengine.app/view/image-direct-measurements---atlanta
+  
